@@ -1,0 +1,7 @@
+@media only screen 
+  and (max-device-width: 767px) {
+
+    html{
+        font-size: 14px;
+    }
+}
